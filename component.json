@@ -1,0 +1,11 @@
+{
+  "name": "paypal-fee",
+  "repo": "apily/paypal-fee",
+  "version": "0.0.1",
+  "description": "PayPal fee list component",
+  "keywords": ["PayPal", "fees"],
+  "scripts": ["index.js"],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT"
+}
